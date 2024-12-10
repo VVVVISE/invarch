@@ -1,9 +1,10 @@
 # INVARCH
 
 ## Introducing INVARCH:
-### A Post-Structuralist Approach to Software Design
 
-### [Introducing INVARCH (JA)]():
+#### [Introducing INVARCH (Japanese)](https://github.com/VVVVISE/invarch/blob/main/README-ja.md)
+
+### A Post-Structuralist Approach to Software Design
 
 After nearly 30 years as a software architect, I have synthesized my experience into a singular, comprehensive theory. This journey has been the most profound gift of my career and life.
 
