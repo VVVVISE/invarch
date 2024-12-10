@@ -3,6 +3,8 @@
 ## Introducing INVARCH:
 ### A Post-Structuralist Approach to Software Design
 
+### [Introducing INVARCH (JA)]():
+
 After nearly 30 years as a software architect, I have synthesized my experience into a singular, comprehensive theory. This journey has been the most profound gift of my career and life.
 
 INVARCH, a product currently in alpha development, is my attempt to apply post-structuralist concepts to software design. Inspired by biological motifs like RNA synthesis (PCR methods), this paradigm fundamentally redefines how software structure is conceived. Here, "structure" is not designed—it emerges from the design itself, evolving autonomously through differential absorption.
