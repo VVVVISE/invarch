@@ -23,4 +23,4 @@
 開発への参加、プロジェクトのスポンサー、ビジネスへの部分的な統合の検討、詳細なディスカッションの予定など、ご興味のある方はぜひご連絡ください。ソフトウェア・デザインの未来を一緒に作っていきましょう。
 
 - https://github.com/VVVVISE/legojs
-- https://github.com/VVVVISE/lego (ONGOING: ProtoTypes of LEGOJS)
+- https://github.com/VVVVISE/lego (ONGOING: ProtoTypes of **_INVARCH_** )
