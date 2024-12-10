@@ -29,4 +29,4 @@ The project is currently named "LEGO" but will soon be renamed "INVARCH" to addr
 If you’re interested in joining the development, sponsoring the project, exploring partial integration into your business, or scheduling an in-depth discussion, I would love to hear from you. Let’s shape the future of software design together.
 
 - https://github.com/VVVVISE/legojs
-- https://github.com/VVVVISE/lego (ONGOING: ProtoTypes of INVARCH)
+- https://github.com/VVVVISE/lego (ONGOING: ProtoTypes of **_INVARCH_** )
