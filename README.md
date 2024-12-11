@@ -30,18 +30,13 @@ If you’re interested in joining the development, sponsoring the project, explo
 
 ---
 
-### The prior project “LEGOJS” was preserved as an archive:
+## 0. [LEGOJS](https://github.com/VVVVISE/legojs) : _The prior project “LEGOJS” was preserved as an archive_
 
-- https://github.com/VVVVISE/legojs
+## 1. [LEGO](https://github.com/VVVVISE/lego) : _Prototype devs for "INVARCH"_
 
----
+- _The alpha version is currently in the WIP stage_
 
-## 1. LEGO : _Prototype devs for INVARCH_
-
-- [@vvvvise/lego](https://github.com/VVVVISE/lego)
-  - _The alpha version is currently in the WIP stage_
-
-## 2. OOUI : _INVARCH has two types of ComponentsSuites_
+## 2. OOUI : _"INVARCH" has two types of _ComponentsSuites__
 
 We are planning to release a Free version and a Professional version.
 
