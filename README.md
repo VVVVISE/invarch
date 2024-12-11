@@ -28,5 +28,32 @@ The project is currently named "LEGO" but will soon be renamed "INVARCH" to addr
 
 If you’re interested in joining the development, sponsoring the project, exploring partial integration into your business, or scheduling an in-depth discussion, I would love to hear from you. Let’s shape the future of software design together.
 
+---
+
+### The prior project “LEGOJS” was preserved as an archive:
+
 - https://github.com/VVVVISE/legojs
-- https://github.com/VVVVISE/lego (ONGOING: ProtoTypes of **_INVARCH_** )
+
+---
+
+## 1. LEGO : _Prototype devs for INVARCH_
+
+- [@vvvvise/lego](https://github.com/VVVVISE/lego)
+  - _The alpha version is currently in the WIP stage_
+
+## 2. OOUI : _INVARCH has two types of ComponentsSuites_
+
+We are planning to release a Free version and a Professional version.
+
+- [@vvvvise/lego-ui](https://github.com/VVVVISE/lego/tree/main/packages/ui)
+  - _Basic components mock_
+  - _WIP_
+- **[@vvvvise/ooui](https://github.com/VVVVISE/OOUI)** _(private-repo)_
+  - _**Object-Oriented Fully UI Suites** - that fully abstract the components of browser applications_
+  - _The beta version is currently in the development stage_
+  - _Not for Public_
+    - _We have plans for a subscription service in the near future_
+
+## 3. HeadlessCloud : _Coming Soon_
+
+## 4. SchemeUI : _Coming Soon_
