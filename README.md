@@ -30,25 +30,36 @@ If you’re interested in joining the development, sponsoring the project, explo
 
 ---
 
-## 0. [LEGOJS](https://github.com/VVVVISE/legojs) : _The prior project “LEGOJS” was preserved as an archive_
+## Projects:
 
-## 1. [LEGO](https://github.com/VVVVISE/lego) : _Prototype devs for "INVARCH"_
+### 📦 [LEGOJS](https://github.com/VVVVISE/legojs) : _The prior project “LEGOJS” was preserved as an archive_
+
+### 🚀 [LEGO](https://github.com/VVVVISE/lego) : _Prototype devs for "INVARCH"_
 
 - _The alpha version is currently in the WIP stage_
 
-## 2. OOUI : _"INVARCH" has two types of _ComponentsSuites__
+### 🚀 [LEGO-UI](https://github.com/VVVVISE/lego/tree/main/packages/ui) / [OOUI](https://github.com/VVVVISE/OOUI) : _"INVARCH" has two types of _ComponentsSuites__
 
 We are planning to release a Free version and a Professional version.
 
-- [@vvvvise/lego-ui](https://github.com/VVVVISE/lego/tree/main/packages/ui)
+#### 🆓 [LEGO-UI](https://github.com/VVVVISE/lego/tree/main/packages/ui)
   - _Basic components mock_
-  - _WIP_
-- **[@vvvvise/ooui](https://github.com/VVVVISE/OOUI)** _(private-repo)_
+  - _Includes in LEGO packages_
+#### 🔐 **[OOUI](https://github.com/VVVVISE/OOUI)**
   - _**Object-Oriented Fully UI Suites** - that fully abstract the components of browser applications_
-  - _The beta version is currently in the development stage_
   - _Not for Public_
+    - _The beta version is currently in the development stage_
     - _We have plans for a subscription service in the near future_
 
-## 3. HeadlessCloud : _Coming Soon_
+### 📅 HeadlessCloud : _Coming Soon_
 
-## 4. SchemeUI : _Coming Soon_
+### 📅 SchemeUI : _Coming Soon_
+
+## Author:
+
+VVVVISE / **Susumu Fujii**: _Usually known as suji(i)_
+
+## License:
+
+GPL-3.0 license
+
