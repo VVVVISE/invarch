@@ -2,7 +2,7 @@
 
 ## Introducing INVARCH:
 
-#### [Introducing INVARCH (Japanese)](https://github.com/VVVVISE/invarch/blob/main/README-ja.md)
+#### [Introducing INVARCH (Japanese)](https://github.com/VVVVISE/invarch/blob/main/README_ja.md)
 
 ### A Post-Structuralist Approach to Software Design
 
