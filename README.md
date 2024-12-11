@@ -32,7 +32,9 @@ If you’re interested in joining the development, sponsoring the project, explo
 
 ## Projects:
 
-### 📦 [LEGOJS](https://github.com/VVVVISE/legojs) : _The prior project “LEGOJS” was preserved as an archive_
+### 📦 [LEGOJS](https://github.com/VVVVISE/legojs) : _The prior project archive_
+
+- _“LEGOJS” was archived_
 
 ### 🚀 [LEGO](https://github.com/VVVVISE/lego) : _Prototype devs for "INVARCH"_
 
