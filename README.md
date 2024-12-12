@@ -22,7 +22,7 @@ This ensures an interface that remains lightweight, adaptable, and responsive to
 
 In essence, INVARCH represents a vision where software is both the plan and the design itself. Just as DNA gives rise to living organisms, structure emerges from the plan, harmonizing dynamically over time.
 
-The project is currently named "LEGO" but will soon be renamed "INVARCH" to address trademark considerations. I am the sole developer working on this open-source project. [If development proceeds without delays](https://github.com/VVVVISE/lego/milestones?direction=asc&sort=due_date&state=open), I anticipate a beta release by late 2025 and an alpha version by early 2027.
+The project is currently named "LEGO" but will soon be renamed "~~INVARCH~~ ♻️ _It's also under reconsideration as trademark concerns have been identified_" to address trademark considerations. I am the sole developer working on this open-source project. [If development proceeds without delays](https://github.com/VVVVISE/lego/milestones?direction=asc&sort=due_date&state=open), I anticipate a beta release by late 2025 and an alpha version by early 2027.
 
 ## Get Involved:
 
