@@ -1,4 +1,5 @@
 # INVARCH
+**_"INVARCH" is under review due to identified trademark concerns._**
 
 ## Introducing INVARCH:
 
