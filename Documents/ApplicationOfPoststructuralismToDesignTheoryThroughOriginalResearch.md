@@ -1,5 +1,7 @@
 # **Application of poststructuralism to design theory through original research**
 
+#### Ref: [Japanese version](ApplicationOfPoststructuralismToDesignTheoryThroughOriginalResearch_ja.md)
+
 ## **Introduction: Transforming Design Theory in a Virtualized Society**  
 Modern society has entered a new phase, termed the "virtualized society," driven by the widespread adoption of the Internet. In this society, physical constraints are significantly diminished, and "structures" exist merely as data representations in memory. This transformation demands a reevaluation of the traditional relationship between "design" and "structure," fostering the development of a theoretical framework where design inherently encapsulates its resultant structures. This paper redefines design theory from the perspective of post-structuralism and explores its potential applications and implications.
 
