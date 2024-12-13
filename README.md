@@ -31,7 +31,7 @@ If you’re interested in joining the development, sponsoring the project, explo
 
 ---
 
-### 📎 [Technical-Design:](https://github.com/vvvvise/invarch/wiki/Technical-Design:)
+### 📎 [Technical-Design:](https://github.com/vvvvise/invarch/wiki/Technical-Design)
 
 ---
 
