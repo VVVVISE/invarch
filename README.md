@@ -31,6 +31,10 @@ If you’re interested in joining the development, sponsoring the project, explo
 
 ---
 
+### 📎 [Technical-Design:](https://github.com/vvvvise/invarch/wiki/Technical-Design:)
+
+---
+
 ## Projects:
 
 ### 🚀 [LEGO](https://github.com/VVVVISE/lego) : _Prototype devs for "INVARCH"_
