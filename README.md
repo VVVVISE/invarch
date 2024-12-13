@@ -33,10 +33,6 @@ If you’re interested in joining the development, sponsoring the project, explo
 
 ## Projects:
 
-### 📦 [LEGOJS](https://github.com/VVVVISE/legojs) : _The prior project archive_
-
-- _“LEGOJS” was archived_
-
 ### 🚀 [LEGO](https://github.com/VVVVISE/lego) : _Prototype devs for "INVARCH"_
 
 - _The alpha version is currently in the WIP stage_
@@ -53,6 +49,8 @@ We are planning to release a Free version and a Professional version.
   - _Not for Public_
     - _The beta version is currently in the development stage_
     - _We have plans for a subscription service in the near future_
+   
+##### 📦 [LEGOJS](https://github.com/VVVVISE/legojs) : _The prior project archive_
 
 ### 📅 HeadlessCloud : _Coming Soon_
 
